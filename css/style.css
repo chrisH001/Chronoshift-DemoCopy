@@ -102,7 +102,7 @@ body:not(#home) #hero h1 {
 }
 
 #home #hero {
-      background-image: url(../img/hero-home.png);
+      background-image: url();
 }
 
 #about #hero {

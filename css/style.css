@@ -106,22 +106,22 @@ body:not(#home) #hero h1 {
 }
 
 #about #hero {
-    background-image: url(../img/552997.jpg);
+    background-image: url(//all-the-imgs/552997.jpg);
     background-position-y: bottom;
 }
 
 #expeditions #hero {
-    background-image: url(../img/hero-expeditions.png);
+    background-image: url(/all-the-imgs/hero-expeditions.png);
     background-position-y: bottom;
 }
 
 #policies #hero {
-    background-image: url(../img/hero-policies.png);
+    background-image: url(/all-the-imgs/hero-policies.png);
     background-position-y: top;
 }
 
 #book #hero {
-    background-image: url(../img/hero-booknow.png);
+    background-image: url(/all-the-imgs/hero-booknow.png);
 }
 
 #hero article {
